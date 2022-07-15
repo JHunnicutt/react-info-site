@@ -2,7 +2,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'))
 
 const page = (
     <div className='container'>
-        <img src='./react_logo.png' width='100px' />
+        <img src='./react_logo.png' width='50px' />
         <h1>Fun facts about React</h1>
         <ul>
             <li>Was first released in 2013</li>
